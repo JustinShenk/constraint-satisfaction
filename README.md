@@ -1,4 +1,4 @@
-# Constraint Satisfaction Model
+# [WIP] Constraint Satisfaction Toy Model
 
 Visualize the various distributed constraint satisfaction algorithms.
 
@@ -7,3 +7,4 @@ Visualize the various distributed constraint satisfaction algorithms.
  - [ ] Fix bugs
 
 [WIP] ![Animation](https://github.com/JustinShenk/constraint-satisfaction/blob/master/animation.gif)
+
